@@ -3,36 +3,63 @@
 
 
 Dear All,
+
 We are organizing  seminar and workshops for its users on topics of Artificial Intelligence: application in life and health sciences in collaboration with deepkapha.ai( https://tarrysingh.com/ )
+
 Target Audience: Anyone with no prior coding experience
+
 Goals: Acquire elementary Machine Learning/Deep Learning skills, gain understanding of advanced techniques in machine learning
  
 Please see below the list of seminar and courses and express your interest as early as possible.
+
+
  
-Seminar
-Artificial Intelligence: application in life and health sciences:- Tarry Singh
+# Seminar
+
+## Artificial Intelligence: application in life and health sciences:- Tarry Singh
+
 Date and Time: 31 May 2018, 11.00-12.00, Victor Haderup Auditorium
+
 Registration: not required
  
-Courses
-Crash Course: Getting Started with Python & Deep Learning (for non-programmer/Biologist):- Gopal Karemore
+
+
+ 
+# Courses
+
+## Crash Course: Getting Started with Python & Deep Learning (for non-programmer/Biologist):- Gopal Karemore
+
 Registration: https://doodle.com/poll/ecczf9i5x7cd6shq  (maximum- 40 seats)
+
 Date and time: To be decided after doodle poll. (18 or 25 or 28th May, 2018)
+
 Goals and course information: Flyers have been posted on floor notice board also find attached flyer.
+
  
- 
-Deep Learning Workshop (day 1): Getting started:- Tarry Singh
+## Deep Learning Workshop (day 1): Getting started:- Tarry Singh
+
 Date and Time:  31 May 2018, 14.00-16.00, Greenhouse seminar room 6.2.09
+
 Registration: https://doodle.com/poll/69snfs7t35gasa2d (maximum- 40 seats)
+
 Goals and course information: Flyers have been posted on floor notice board also find attached flyer.
+
  
  
-Deep Learning Workshop (day 2):  Digging Deeper: Code along with Tarry
+## Deep Learning Workshop (day 2):  Digging Deeper: Code along with Tarry
+
 Date and Time:  1 June 2018, 10.00-16.00, Greenhouse seminar room 6.2.09
+
 Registration: https://doodle.com/poll/69snfs7t35gasa2d (maximum- 40 seats)
+
 Goals and course information: Flyers have been posted on floor notice board also find attached flyer.
+
  
  
+
+
+
+
 Sincerely,
 Gopal Karemore, PhD
 Image-Data Analysis Specialist, 
